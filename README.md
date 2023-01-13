@@ -1,2 +1,5 @@
-# nlp-basics-to-advanced
-A complete walk-through of various concepts and their implementations from basics to advanced stage.
+#### About
+Hands on implementation of various concepts of Natural Language processing from basics and a centralised repository for important machine learnig and deep learning models implemented for various use cases
+
+###### Index
+1. Tokenization.
