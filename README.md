@@ -6,3 +6,5 @@ Hands on implementation of various concepts of Natural Language processing from 
 2. Stopwords.
 3. Stemming.
 4. Lemmatisation.
+5. POS-Tagging.
+6. NER(Named Entity recognition)
