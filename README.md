@@ -8,3 +8,5 @@ Hands on implementation of various concepts of Natural Language processing from 
 4. Lemmatisation.
 5. POS-Tagging.
 6. NER(Named Entity recognition)
+7. Sentence Segmentation.
+8. Bag of words (BOW).
