@@ -10,3 +10,5 @@ Hands on implementation of various concepts of Natural Language processing from 
 6. NER(Named Entity recognition)
 7. Sentence Segmentation.
 8. Bag of words (BOW).
+9. TF-IDF (Term frequency-Inverse Document Frequency)
+10. N-grams.
