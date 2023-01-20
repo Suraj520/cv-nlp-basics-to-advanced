@@ -13,3 +13,4 @@ Hands on implementation of various concepts of Natural Language processing from 
 9. TF-IDF (Term frequency-Inverse Document Frequency)
 10. N-grams.
 11. Text classification using Logistic Regression.
+12. Text classification using SVM.
