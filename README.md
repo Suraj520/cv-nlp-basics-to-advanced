@@ -14,3 +14,5 @@ Hands on implementation of various concepts of Natural Language processing from 
 10. N-grams.
 11. Text classification using Logistic Regression-TFIDF.
 12. Text classification using SVM-TfIDf.
+13. Word embeddings using Continuos Bag of words and Skip grams.
+14. Text emotion classification using Decision Trees, Random Forests and LSTMs with Glove embeddings.
