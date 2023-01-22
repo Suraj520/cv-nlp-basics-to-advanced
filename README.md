@@ -14,3 +14,5 @@ Hands on implementation of various concepts of Natural Language processing from 
 10. N-grams.
 11. Text classification using Logistic Regression-TFIDF.
 12. Text classification using SVM-TfIDf.
+13. Text emotion detection using Decision Trees,Random Forests, Logistic regression and LSTMs.
+
