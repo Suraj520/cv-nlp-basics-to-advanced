@@ -17,4 +17,5 @@ Hands on implementation of various concepts of Natural Language processing from 
 13. Word embeddings using Continuos Bag of words and Skip grams.
 14. Text emotion classification using Decision Trees, Random Forests and LSTMs with Glove embeddings.
 15. Topic modelling using LDA
-16. DeepNLP starter - Word segmentation in PyTorch.
+16. DeepNLP starter 01 - RNN and its application for name classification
+16. DeepNLP starter 02 - Word segmentation in PyTorch.
