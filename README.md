@@ -20,3 +20,4 @@ Hands on implementation of various concepts of Natural Language processing from 
 16. DeepNLP starter 01 - RNN and its application for printing hello world.
 17. DeepNLP starter 02 - RNN and its application for name classification.
 18. DeepNLP starter 03 - Word segmentation in PyTorch.
+19. License Plate Text Recognition in PyTorch.
