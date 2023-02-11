@@ -23,3 +23,4 @@ Hands on implementation of various concepts of Natural Language processing from 
 19. License Plate Text Recognition using CRNN in PyTorch.
 20. Image captioning using LSTMs in PyTorch.
 21. Machine Translation using LSTMs in PyTorch.
+22. DeepNLP Starter 04 - Transformers in PyTorch.
