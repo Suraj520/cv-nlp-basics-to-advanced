@@ -25,4 +25,4 @@ Hands on implementation of various concepts of Natural Language processing from 
 21. Machine Translation using LSTMs in PyTorch.
 22. DeepNLP Starter 04 - Transformers in PyTorch.
 23. Machine Translation using Transformers in Pytorch.
-24. Sentiment Analysis using BERT in Keras.
+24. Sentiment Analysis using BERT tokenizer and 1D CNNs in Keras.
