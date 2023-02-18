@@ -28,3 +28,4 @@ Hands on implementation of various concepts of Natural Language processing from 
 24. Sentiment Analysis using BERT tokenizer and 1D CNNs in Keras.
 25. Text Classification using BERT(HuggingFace) in PyTorch.
 26. Extractive Question Answering using ROBERTA in PyTorch.
+27. Text generation using GPT in PyTorch.
