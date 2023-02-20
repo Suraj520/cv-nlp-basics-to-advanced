@@ -29,3 +29,4 @@ Hands on implementation of various concepts of Natural Language processing from 
 25. Text Classification using BERT(HuggingFace) in PyTorch.
 26. Extractive Question Answering using ROBERTA in PyTorch.
 27. Text generation using GPT in PyTorch.
+28. Text similarity using BERT in PyTorch.
