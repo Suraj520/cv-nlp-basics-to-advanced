@@ -7,3 +7,4 @@
 6. Meanshift Tracker in OpenCV.
 7. Camshift Tracker in OpenCV.
 8. Object detection and Tracking in HSV color space using OpenCV.
+9. Kalman filter based tracking using OpenCV.
