@@ -9,3 +9,4 @@
 8. Object detection and Tracking in HSV color space using OpenCV.
 9. Kalman filter based tracking using OpenCV.
 10. Image thresholding using OpenCV.
+11. Morphological operations on an image using OpenCV.
