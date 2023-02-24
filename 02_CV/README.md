@@ -12,3 +12,4 @@
 11. Morphological operations on an image using OpenCV.
 12. Image filters using OpenCV.
 13. Image Gradients and Edge Detection using OpenCV.
+14. Image Pyramids using OpenCV.
