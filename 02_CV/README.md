@@ -10,3 +10,4 @@
 9. Kalman filter based tracking using OpenCV.
 10. Image thresholding using OpenCV.
 11. Morphological operations on an image using OpenCV.
+12. Image filters using OpenCV.
