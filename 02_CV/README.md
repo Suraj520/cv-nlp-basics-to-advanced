@@ -12,4 +12,5 @@
 11. Morphological operations on an image using OpenCV.
 12. Image filters using OpenCV.
 13. Image Gradients and Edge Detection using OpenCV.
-14. Image Pyramids using OpenCV.
+14. Image Pyramids(Laplacian and Gaussian) using OpenCV.
+15. Image blending using image pyramids in OpenCV.
