@@ -16,3 +16,4 @@
 15. Image blending using image pyramids in OpenCV.
 16. Contour detection & convex-hull for Finger counting in OpenCV.
 17. Histogram and its application for segmentation using OpenCV.
+18. Template matching using OpenCV.
