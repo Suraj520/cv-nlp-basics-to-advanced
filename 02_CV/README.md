@@ -14,4 +14,5 @@
 13. Image Gradients and Edge Detection using OpenCV.
 14. Image Pyramids(Laplacian and Gaussian) using OpenCV.
 15. Image blending using image pyramids in OpenCV.
-16. Contour detection and applications of convex-hull in OpenCV.
+16. Contour detection & convex-hull for Finger counting in OpenCV.
+17. Histogram and its application for segmentation using OpenCV.
