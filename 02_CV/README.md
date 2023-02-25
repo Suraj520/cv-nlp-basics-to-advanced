@@ -19,3 +19,4 @@
 18. Template matching using OpenCV.
 19. Image keypoints, detectors, descriptors and registration.
 20. Line detection using hough transform through OpenCV.
+21. Fourier transform on images using OpenCV.
