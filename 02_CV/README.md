@@ -18,3 +18,4 @@
 17. Histogram and its application for segmentation using OpenCV.
 18. Template matching using OpenCV.
 19. Image keypoints, detectors, descriptors and registration.
+20. Line detection using hough transform through OpenCV.
