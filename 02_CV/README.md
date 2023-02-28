@@ -21,3 +21,6 @@
 20. Line detection using hough transform through OpenCV.
 21. Fourier transform on images using OpenCV.
 22. Wavelet transform on images using OpenCV.
+23. Deepsort real-time tracker using yolov8.
+24. Delaunay triangulation and voronoi diagram using OpenCV
+25. Depth images, Disparity maps and Stereo Vision using OpenCV. 
