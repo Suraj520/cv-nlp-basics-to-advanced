@@ -21,6 +21,11 @@
 20. Line detection using hough transform through OpenCV.
 21. Fourier transform on images using OpenCV.
 22. Wavelet transform on images using OpenCV.
-23. Deepsort real-time tracker using yolov8.
-24. Delaunay triangulation and voronoi diagram using OpenCV
-25. Depth images, Disparity maps and Stereo Vision using OpenCV. 
+23. Delaunay triangulation and voronoi diagram using OpenCV.
+24. Point clouds and meshes using Open3D.
+25. ArUco marker generation and detection using OpenCV.
+26. Camera Projection matrices and Camera Calibration using OpenCV.
+27. Plane detection and formation using O
+28. Depth images, Disparity maps and Stereo Vision using OpenCV. 
+29. Iterative Closest Point between point clouds.
+30. Chamfer distance. 
