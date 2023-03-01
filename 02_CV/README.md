@@ -23,9 +23,10 @@
 22. Wavelet transform on images using OpenCV.
 23. Delaunay triangulation and voronoi diagram using OpenCV.
 24. Point clouds and meshes using Open3D.
-25. ArUco marker generation and detection using OpenCV.
-26. Camera Projection matrices and Camera Calibration using OpenCV.
-27. Plane detection and formation using O
-28. Depth images, Disparity maps and Stereo Vision using OpenCV. 
-29. Iterative Closest Point between point clouds.
-30. Chamfer distance. 
+25. AprilTags detection using OpenCV.
+26. ArUco marker generation and detection using OpenCV.
+27. Camera Projection matrices and Camera Calibration using OpenCV.
+28. Plane detection and formation using O
+29. Depth images, Disparity maps and Stereo Vision using OpenCV. 
+30. Iterative Closest Point between point clouds.
+31. Chamfer distance. 
