@@ -29,7 +29,7 @@
 28. Camera Projection matrices.
 29. Camera Calibration using OpenCV.
 30. Camera Pose estimation using OpenCV.
-31. Plane detection and formation using OpenCV.
+31. Plane formation from a set of points using voronoi diagram and delaunay triangulation.
 32. Depth images, Disparity maps and Stereo Vision using OpenCV. 
 33. Iterative Closest Point between point clouds.
 34. Chamfer distance. 
