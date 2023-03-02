@@ -28,7 +28,8 @@
 27. Perspective transformation to get eagle-eye view using OpenCV.
 28. Camera Projection matrices.
 29. Camera Calibration using OpenCV.
-30. Plane detection and formation using O
-31. Depth images, Disparity maps and Stereo Vision using OpenCV. 
-32. Iterative Closest Point between point clouds.
-33. Chamfer distance. 
+30. Camera Pose estimation using OpenCV.
+31. Plane detection and formation using OpenCV.
+32. Depth images, Disparity maps and Stereo Vision using OpenCV. 
+33. Iterative Closest Point between point clouds.
+34. Chamfer distance. 
