@@ -18,9 +18,5 @@ Various computer vision projects and implementations are included in this sectio
 ### Usage
 The code can be run using jupyter notebook instance.
 
-
-## Contributing
-Contributions to this repository are always welcome. Before contributing, please read the [contribution guidelines](CONTRIBUTING.md).
-
 ## License
-This repository is licensed under the [License](LICENSE.md).
+This repository is licensed under the License attached to the repo.
