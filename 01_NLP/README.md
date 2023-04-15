@@ -32,5 +32,28 @@ Hands on implementation of various concepts of Natural Language processing from 
 | 24. | Sentiment Analysis using BERT tokenizer and 1D CNNs in Keras. |
 | 25. | Text Classification using BERT(HuggingFace) in PyTorch. |
 | 26. | Extractive Question Answering using ROBERTA in PyTorch. |
-| 27. | Text generation using GPT in PyTorch. |
-| 28. | Text similarity using BERT in PyTorch. |
+| 27. | Dependency Parsing. |
+| 28. | Coreference Resolution. |
+| 29. | Named Entity Linking. |
+| 30. | Sentiment Analysis on Multimodal data. |
+| 31. | Aspect based Sentiment Analysis. |
+| 32. | Speech to Text. |
+| 33. | Dialogue Act Classification. |
+| 34. | Cross lingual information retrieval. |
+| 35. | Multi-Task learning. |
+| 36. | Automatic Text Simplification. |
+| 37. | Automatic Text Correction |
+| 38. | Relation Extraction. |
+| 39. | Named Entity Recognition for Medical Text. |
+| 40. | Text completion and prediction. |
+| 41. | Language Identification. |
+| 42. | Knowledge Graph construction. |
+| 43. | Abstractive Text summarization. |
+| 44. | Cross Lingual Text classification. |
+| 45. | Text generation with GPT3. |
+| 46. | Relation extraction with Graph neural networks. |
+| 47. | Named Entity recognition for low resource languages. |
+| 48. | Dynamic Language models. |
+| 49. | Multi lingual machine translation with M4. |
+| 50. | Explainable AI for NLP. |
+| 51. | Active Learning for NLP. |
