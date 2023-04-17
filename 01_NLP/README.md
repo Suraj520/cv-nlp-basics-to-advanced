@@ -32,28 +32,30 @@ Hands on implementation of various concepts of Natural Language processing from 
 | 24. | Sentiment Analysis using BERT tokenizer and 1D CNNs in Keras. |
 | 25. | Text Classification using BERT(HuggingFace) in PyTorch. |
 | 26. | Extractive Question Answering using ROBERTA in PyTorch. |
-| 27. | Dependency Parsing. |
-| 28. | Coreference Resolution. |
-| 29. | Named Entity Linking. |
-| 30. | Sentiment Analysis on Multimodal data. |
-| 31. | Aspect based Sentiment Analysis. |
-| 32. | Speech to Text. |
-| 33. | Dialogue Act Classification. |
-| 34. | Cross lingual information retrieval. |
-| 35. | Multi-Task learning. |
-| 36. | Automatic Text Simplification. |
-| 37. | Automatic Text Correction |
-| 38. | Relation Extraction. |
-| 39. | Named Entity Recognition for Medical Text. |
-| 40. | Text completion and prediction. |
-| 41. | Language Identification. |
-| 42. | Knowledge Graph construction. |
-| 43. | Abstractive Text summarization. |
-| 44. | Cross Lingual Text classification. |
-| 45. | Text generation with GPT3. |
-| 46. | Relation extraction with Graph neural networks. |
-| 47. | Named Entity recognition for low resource languages. |
-| 48. | Dynamic Language models. |
-| 49. | Multi lingual machine translation with M4. |
-| 50. | Explainable AI for NLP. |
-| 51. | Active Learning for NLP. |
+| 27. | Text generation using GPT. |
+| 28. | Text similarity using BERT. |
+| 29. | Dependency Parsing. |
+| 30. | Coreference Resolution. |
+| 31. | Named Entity Linking. |
+| 32. | Sentiment Analysis on Multimodal data. |
+| 33. | Aspect based Sentiment Analysis. |
+| 34. | Speech to Text. |
+| 35. | Dialogue Act Classification. |
+| 36. | Cross lingual information retrieval. |
+| 37. | Multi-Task learning. |
+| 38. | Automatic Text Simplification. |
+| 39. | Automatic Text Correction |
+| 40. | Relation Extraction. |
+| 41. | Named Entity Recognition for Medical Text. |
+| 42. | Text completion and prediction. |
+| 43. | Language Identification. |
+| 44. | Knowledge Graph construction. |
+| 45. | Abstractive Text summarization. |
+| 46. | Cross Lingual Text classification. |
+| 47. | Text generation with GPT3. |
+| 48. | Relation extraction with Graph neural networks. |
+| 49. | Named Entity recognition for low resource languages. |
+| 50. | Dynamic Language models. |
+| 51. | Multi lingual machine translation with M4. |
+| 52. | Explainable AI for NLP. |
+| 53. | Active Learning for NLP. |
