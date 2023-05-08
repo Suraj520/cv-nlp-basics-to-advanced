@@ -36,7 +36,7 @@ Hands on implementation of various concepts of Natural Language processing from 
 | 28. | Text similarity using BERT. |
 | 29. | Dependency Parsing. |
 | 30. | Coreference Resolution. |
-| 31. | Named Entity Linking. |
+| 31. | Deep Named Entity Linking. |
 | 32. | Sentiment Analysis on Multimodal data. |
 | 33. | Aspect based Sentiment Analysis. |
 | 34. | Speech to Text. |
