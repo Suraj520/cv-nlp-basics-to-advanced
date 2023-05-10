@@ -51,11 +51,11 @@ Hands on implementation of various concepts of Natural Language processing from 
 | 43. | Language Identification. |
 | 44. | Knowledge Graph construction. |
 | 45. | Abstractive Text summarization. |
-| 46. | Cross Lingual Text classification. |
-| 47. | Text generation with GPT3. |
-| 48. | Relation extraction with Graph neural networks. |
-| 49. | Named Entity recognition for low resource languages. |
-| 50. | Dynamic Language models. |
-| 51. | Multi lingual machine translation with M4. |
-| 52. | Explainable AI for NLP. |
-| 53. | Active Learning for NLP. |
+| 46. | Extractive Text summarization. |
+| 47. | Cross Lingual Text classification. |
+| 48. | Text generation with GPT3. |
+| 49. | Relation extraction with Graph neural networks. |
+| 50. | Named Entity recognition for low resource languages. |
+| 51. | Dynamic Language models. |
+| 52. | Multi lingual machine translation with M4. |
+| 53. | Large Language Models(LLMs)
