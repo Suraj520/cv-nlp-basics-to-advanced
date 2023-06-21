@@ -18,51 +18,49 @@
 17. Pegasus by Google Research.
 18. ProphetNet by Microsoft Research.
 19. Megatron by NVIDIA.
-20. Marian by University of Edinburgh.
-21. GShard by Google Research.
-22. CamemBERT by Facebook AI.
-23. DistilBERT by Hugging Face.
-24. MobileBERT by Google Research.
-25. Bart by Facebook AI.
-26. Longformer by Allen Institute for AI.
-27. XLM-RoBERTa by Facebook AI.
-28. Flair by Zalando Research.
-29. DialoGPT by Microsoft Research.
-30. Albert-Xlarge by Google Research.
-31. Funnel Transformer by Google Research.
-32. Zero-shot Prompted Learning (ZPL) by OpenAI
-33. TextGPT by OpenAI.
-34. Megatron-LM by NVIDIA.
-35. MiniLM by Microsoft Research.
-36. GPT-Neo by EleutherAI.
-37. Blender by Facebook AI.
-38. LaMDA (Language Model for Dialogue Applications) by Google.
-39. Codex by OpenAI (specifically designed for code generation).
-40. CogView by OpenAI.
-41. LayoutLM by Microsoft Research.
-42. RuBERT by DeepPavlov.
-43. Sluice Network by Google Research.
-44. SpanBERT by Facebook AI.
-45. T-NLG by Tencent AI Lab.
-46. HyperTransformer by Huawei.
-47. HermitianTransformer by Google Research.
-48. ReCoSa (Reading Comprehension with Self-Attention) by Tencent AI Lab.
-49. Megatron-BERT by NVIDIA.
-50. ProphetNet-XL by Microsoft Research.
-51. CLIP (Contrastive Language-Image Pretraining) by OpenAI.
-52. DALL-E by OpenAI (focuses on generating images from textual descriptions).
-53. T-NLG by Tencent AI Lab.
-54. MT5 (Multilingual Translation Transformer) by Google Research.
-55. Turing-NLG by Microsoft.
-56. LayoutLMv2 by Microsoft Research.
-57. MEGATRON-Turing by NVIDIA.
-58. DeBERTa-v2 by Microsoft Research.
-59. AdaBERT by IBM Research.
-60. PPLM (Plug and Play Language Model) by Uber AI.
-61. VQ-VAE by OpenAI.
-62. TransGAN by Microsoft Research.
-63. CoDA (Code Design Assistant) by OpenAI.
-64. NuFormer by Microsoft Research.
-65. LXMERT (Language-Enabled Cross-Modal Transformer) by Facebook AI.
-66. UNITER (UNiversal Image-TExt Representation) by Facebook AI.
-67. Hugging Face Transformers (library that provides access to various pre-trained models).
+20. GShard by Google Research.
+21. CamemBERT by Facebook AI.
+22. DistilBERT by Hugging Face.
+23. MobileBERT by Google Research.
+24. Bart by Facebook AI.
+25. Longformer by Allen Institute for AI.
+26. XLM-RoBERTa by Facebook AI.
+27. Flair by Zalando Research.
+28. DialoGPT by Microsoft Research.
+29. Albert-Xlarge by Google Research.
+30. Funnel Transformer by Google Research.
+31. Zero-shot Prompted Learning (ZPL) by OpenAI
+32. TextGPT by OpenAI.
+33. Megatron-LM by NVIDIA.
+34. MiniLM by Microsoft Research.
+35. GPT-Neo by EleutherAI.
+36. Blender by Facebook AI.
+37. LaMDA (Language Model for Dialogue Applications) by Google.
+38. Codex by OpenAI (specifically designed for code generation).
+39. CogView by OpenAI.
+40. LayoutLM by Microsoft Research.
+41. RuBERT by DeepPavlov.
+42. Sluice Network by Google Research.
+43. SpanBERT by Facebook AI.
+44. T-NLG by Tencent AI Lab.
+45. HyperTransformer by Huawei.
+46. HermitianTransformer by Google Research.
+47. ReCoSa (Reading Comprehension with Self-Attention) by Tencent AI Lab.
+48. Megatron-BERT by NVIDIA.
+49. ProphetNet-XL by Microsoft Research.
+50. CLIP (Contrastive Language-Image Pretraining) by OpenAI.
+51. DALL-E by OpenAI (focuses on generating images from textual descriptions).
+52. T-NLG by Tencent AI Lab.
+53. MT5 (Multilingual Translation Transformer) by Google Research.
+54. Turing-NLG by Microsoft.
+55. LayoutLMv2 by Microsoft Research.
+56. MEGATRON-Turing by NVIDIA.
+57. DeBERTa-v2 by Microsoft Research.
+58. AdaBERT by IBM Research.
+59. PPLM (Plug and Play Language Model) by Uber AI.
+60. VQ-VAE by OpenAI.
+61. TransGAN by Microsoft Research.
+62. CoDA (Code Design Assistant) by OpenAI.
+63. NuFormer by Microsoft Research.
+64. LXMERT (Language-Enabled Cross-Modal Transformer) by Facebook AI.
+65. UNITER (UNiversal Image-TExt Representation) by Facebook AI.
