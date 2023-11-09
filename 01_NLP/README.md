@@ -53,4 +53,7 @@ Hands on implementation of various concepts of Natural Language processing from 
 | 45. | Abstractive Text summarization. |
 | 46. | Extractive Text summarization. |
 | 47. | Text generation with GPT3. |
-| 48. | Large Language Models(LLMs)
+| 48. | Large Language Models(LLMs) |
+| 49. | Langchain - basics to advanced |
+| 50. | LLamaIndex - basics to advanced |
+
